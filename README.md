@@ -3,7 +3,14 @@
 This application handle 2 level friend. 
 to run this application go to home directory of app.js file. 
 
+## Database and Sample Data
 Application uses mongodb database. To modify the mongodb database URL goto app.py 
+
+To use the attached dataset for which the mongodb databse url is defined 
+```bash
+mongodb://localhost:27027/friendlist
+```
+Sample data is attached in the files for blogs and user in csv files
 
 To install dependencies run the below command
 ```bash

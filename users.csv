@@ -1,0 +1,16 @@
+_id,name,price,__v
+ObjectId("5e4d8a931fc29f316c85f1e0"),Hakam1 ,10,0
+ObjectId("5e4d8b1ca90c7717c0ce2ffd"),hakam,"[10,20,20]",0
+ObjectId("5e4d9e0b6be88a335004118c"),hakam,,
+ObjectId("5e4da2ff68210423bc78d906"),moti,,0
+ObjectId("5e4eb0e500206e1dd84ba081"),hakam,,0
+ObjectId("5e4eb0ef00206e1dd84ba082"),rakesh,,0
+ObjectId("5e4eb10000206e1dd84ba083"),suresh,,0
+ObjectId("5e4eb10600206e1dd84ba084"),ram,,0
+ObjectId("5e4eb10d00206e1dd84ba085"),shyam,,0
+ObjectId("5e4eb11300206e1dd84ba086"),uchit,,0
+ObjectId("5e4eb162ddc8c12148caf7ce"),ruchi,,0
+ObjectId("5e4eb169ddc8c12148caf7cf"),neha,,0
+ObjectId("5e4eb170ddc8c12148caf7d0"),ramesh,,0
+ObjectId("5e4eb176ddc8c12148caf7d1"),kavi,,0
+ObjectId("5e4eb17cddc8c12148caf7d2"),madhav,,0
